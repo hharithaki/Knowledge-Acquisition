@@ -1,4 +1,4 @@
-# Can I Do That? Incremental Knowledge Acquisition Through Observation
+# Knowledge Acquisition in Ad Hoc Teamwork
 
 Ad hoc teamwork involves agents collaborating with teammates without prior coordination. Achieving such teamwork is challenging as agents may have differing and incomplete knowledge about the environemnt.
 
