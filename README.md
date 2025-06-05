@@ -6,7 +6,7 @@ This repository contains the code for an architecture that enables an ad hoc age
 
 - Answer Set Prolog (ASP) for representing domain knowledge.
 - A Large Language Model (LLM) to interpret human-provided natural language descriptions of agent behaviors, enabling the extraction of missing knowledge in terms of sorts, actions and axioms.
-- Decision tree induction for refining the agent’s knowledge based on observations.
+- Decision tree induction for learning previously unknown causal laws and executability conditions.
 - Ecological rationality inspired beahviour prediction models of other agents.
 
 We use VirtualHome, a 3D simulation environment to evalute the architecture.
@@ -31,3 +31,10 @@ We use VirtualHome, a 3D simulation environment to evalute the architecture.
 ├── utils.py                    # Utility file for comprehensive knowledge agent.
 └── utils_partial.py            # Utility file for incomplete comprehensive knowledge agent.
 ```
+## Installation
+
+Follow the instructions from [VirtualHome](http://virtual-home.org) to download and install VirtualHome.
+
+Replace the corresponding files in the installed directory with those from the virtualhome/simulation/unity_simulator folder.
+
+Use the main.py file to run the code for proposed architecture.
